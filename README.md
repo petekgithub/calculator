@@ -1,2 +1,2 @@
 # calculator
-### This is a javascript calculator  using with eventlisteners.
+#####  This is a javascript calculator used with event listeners.
